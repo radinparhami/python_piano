@@ -1,3 +1,3 @@
 # Python piano
 
-## Small and simple program for fun using Python
+>  Small and simple program for fun using **Python**
